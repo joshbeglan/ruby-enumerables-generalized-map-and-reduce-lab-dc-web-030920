@@ -9,6 +9,6 @@ def map(arg)
   new_arr
 end
 
-def reduce(arg)
-  if
+def reduce(arg, sv = nil)
+  if sv
 end
