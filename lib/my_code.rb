@@ -19,7 +19,7 @@ def reduce(arg, sv = nil)
   end
   
   while i < arg.length
-    el = arg[i]
+    yield()
     
   end
 end
