@@ -11,8 +11,7 @@ end
 
 def reduce(arg, sv = nil)
   if sv
-    
-  else
+    num1 =
     
   end
 end
