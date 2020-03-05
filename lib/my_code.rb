@@ -19,5 +19,6 @@ def reduce(arg, sv = nil)
   end
   
   while i < arg.length
+    
   end
 end
