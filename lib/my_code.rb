@@ -13,5 +13,7 @@ def reduce(arg, sv = nil)
   if sv
     num1 = sv
     i = 0
+  else
+    
   end
 end
