@@ -11,4 +11,8 @@ end
 
 def reduce(arg, sv = nil)
   if sv
+    
+  else
+    
+  end
 end
