@@ -11,10 +11,10 @@ end
 
 def reduce(arg, sv = nil)
   if sv
-    num1 = sv
+    sum = sv
     i = 0
   else
-    num1 = arg[0]
+    sum = arg[0]
     i = 1
   end
   
