@@ -14,6 +14,6 @@ def reduce(arg, sv = nil)
     num1 = sv
     i = 0
   else
-    
+    num1 = arg[0]
   end
 end
