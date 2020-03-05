@@ -10,5 +10,5 @@ def map(arg)
 end
 
 def reduce(arg)
-  
+  if
 end
