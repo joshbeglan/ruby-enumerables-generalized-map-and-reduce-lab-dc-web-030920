@@ -15,5 +15,9 @@ def reduce(arg, sv = nil)
     i = 0
   else
     num1 = arg[0]
+    i = 1
+  end
+  
+  while i < arg.length
   end
 end
